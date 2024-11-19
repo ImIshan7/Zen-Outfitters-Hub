@@ -120,7 +120,7 @@ Runs tests in interactive watch mode.
    ```
 2. Deploy the contents of the `build` folder to your hosting platform:
    
-   - [GitHub Pages]([https://pages.github.com/](https://imishan7.github.io/Zen-Outfitters-Hub/))  
+   - [GitHub Pages](https://pages.github.com/](https://imishan7.github.io/Zen-Outfitters-Hub/))  
 
 ---
 
