@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zen-Outfitters-Hub/static/css/main.8e68af30.css",
+    "main.js": "/Zen-Outfitters-Hub/static/js/main.ba10887e.js",
+    "static/js/453.a593803d.chunk.js": "/Zen-Outfitters-Hub/static/js/453.a593803d.chunk.js",
+    "index.html": "/Zen-Outfitters-Hub/index.html",
+    "main.8e68af30.css.map": "/Zen-Outfitters-Hub/static/css/main.8e68af30.css.map",
+    "main.ba10887e.js.map": "/Zen-Outfitters-Hub/static/js/main.ba10887e.js.map",
+    "453.a593803d.chunk.js.map": "/Zen-Outfitters-Hub/static/js/453.a593803d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e68af30.css",
+    "static/js/main.ba10887e.js"
+  ]
+}
